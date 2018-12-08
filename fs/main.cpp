@@ -6,7 +6,7 @@
 * Finish：2016.12.10
 *
 */
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <fcntl.h>
 #include <string.h>
